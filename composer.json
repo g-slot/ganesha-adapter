@@ -17,6 +17,6 @@
         "php": "^7.4",
         "guzzlehttp/guzzle": "^7.0",
         "ackintosh/ganesha": "^2.0",
-        "psr/http-message": "^1.1"
+        "psr/http-message": "^1.0"
     }
 }
